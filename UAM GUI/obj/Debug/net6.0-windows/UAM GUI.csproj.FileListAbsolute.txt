@@ -1,0 +1,17 @@
+E:\C++ Code\UAM GUI\UAM GUI\obj\Debug\net6.0-windows\UAM GUI.csproj.AssemblyReference.cache
+E:\C++ Code\UAM GUI\UAM GUI\obj\Debug\net6.0-windows\UAM_GUI.Form1.resources
+E:\C++ Code\UAM GUI\UAM GUI\obj\Debug\net6.0-windows\UAM GUI.csproj.GenerateResource.cache
+E:\C++ Code\UAM GUI\UAM GUI\obj\Debug\net6.0-windows\UAM GUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\C++ Code\UAM GUI\UAM GUI\obj\Debug\net6.0-windows\UAM GUI.AssemblyInfoInputs.cache
+E:\C++ Code\UAM GUI\UAM GUI\obj\Debug\net6.0-windows\UAM GUI.AssemblyInfo.cs
+E:\C++ Code\UAM GUI\UAM GUI\obj\Debug\net6.0-windows\UAM GUI.csproj.CoreCompileInputs.cache
+E:\C++ Code\UAM GUI\UAM GUI\bin\Debug\net6.0-windows\UAM GUI.exe
+E:\C++ Code\UAM GUI\UAM GUI\bin\Debug\net6.0-windows\UAM GUI.deps.json
+E:\C++ Code\UAM GUI\UAM GUI\bin\Debug\net6.0-windows\UAM GUI.runtimeconfig.json
+E:\C++ Code\UAM GUI\UAM GUI\bin\Debug\net6.0-windows\UAM GUI.dll
+E:\C++ Code\UAM GUI\UAM GUI\bin\Debug\net6.0-windows\UAM GUI.pdb
+E:\C++ Code\UAM GUI\UAM GUI\obj\Debug\net6.0-windows\UAM GUI.dll
+E:\C++ Code\UAM GUI\UAM GUI\obj\Debug\net6.0-windows\refint\UAM GUI.dll
+E:\C++ Code\UAM GUI\UAM GUI\obj\Debug\net6.0-windows\UAM GUI.pdb
+E:\C++ Code\UAM GUI\UAM GUI\obj\Debug\net6.0-windows\UAM GUI.genruntimeconfig.cache
+E:\C++ Code\UAM GUI\UAM GUI\obj\Debug\net6.0-windows\ref\UAM GUI.dll
