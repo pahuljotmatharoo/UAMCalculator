@@ -1,4 +1,4 @@
-# UAM-Calculator
+# UAM-Calculator 
 Uniformly Accelerated Motion Calculator made with C# in the WinForms format
 
 The **.exe (executable) file** is located in **UAM GUI\bin\Debug\net6.0-windows**
