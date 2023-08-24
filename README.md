@@ -1,12 +1,13 @@
 # UAM-Calculator 
 - Uniformly Accelerated Motion Calculator made with **C#** in the **WinForms format**
-  
+- UAMCalculator is your go-to open-source tool for effortlessly tackling Uniformly Accelerated Motion problems
+
+
 - **Key Features:**
 - 📐Quick Calculations: Easily determine displacement, velocity, acceleration, and time using our intuitive interface.
 
 - 💡A variety of different units and available as inputs, and the output always displays in standard units.
 
-- UAMCalculator is your go-to open-source tool for effortlessly tackling Uniformly Accelerated Motion problems
 
 - **Requires **NET Framework version 6.0****
 
